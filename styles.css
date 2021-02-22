@@ -18,6 +18,10 @@
   padding: 0 8px;
   font-size: 1.75rem;
 }
+.college {
+  font-family: 'Abel', sans-serif;
+  font-size: 2rem;
+}
 
 .image-banner {
   width: 100%;
